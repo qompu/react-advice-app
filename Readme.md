@@ -1,3 +1,8 @@
+// adapted for React from https://www.geeksforgeeks.org/axios-in-react-native/
+// displays "Not available" on network error. 
+
+
+=========================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

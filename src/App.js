@@ -1,5 +1,5 @@
 // adapted for React from https://www.geeksforgeeks.org/axios-in-react-native/
-// getting a network error  
+// displays "Not available" on network error. 
 
 import React, { useState } from "react";
 import axios from "axios";
